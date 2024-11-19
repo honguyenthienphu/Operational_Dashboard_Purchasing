@@ -77,3 +77,36 @@
 </ul>
 
 <h2>IV. Dashboard</h2>
+<h3>1. Inventory</h3>
+<p><b>Description: </b>Provides an overview of inventory, including inventory quantity, inventory value, the number of SKUs for purchasing and production, and product classification</p>
+<p><b>Purpose: </b>To inform stakeholders about the current inventory status, identify shortages of materials, understand how value is allocated, and determine inventory locations</p>
+<p><b>Key Metrics:</b></p>
+<ul>
+  <li>Stock Ratio: The inventory ratio of SKUs</li>
+  <li>Reorder Point: The threshold at which new orders need to be placed</li>
+  <li>Safety Stock: The minimum level of inventory to prevent stockouts</li>
+  <li>Reorder Index: An indicator assessing the urgency of placing new orders</li>
+</ul>
+<img src="https://github.com/user-attachments/assets/0a6d68eb-263a-43ab-a280-8c41796d699c" alt="Query 4" style="width: 100%;">
+
+<h3>2. Purchasing</h3>
+<p><b>Description: </b>Provides an overview of the purchasing team's activities, including the number of Purchase Orders (POs), order value, and accounts payable</p>
+<p><b>Purpose: </b>To inform stakeholders about the order value and outstanding debts to suppliers. Additionally, it provides insights into the lead time for materials</p>
+<p><b>Key Metrics:</b></p>
+<ul>
+  <li>PO Amount: The value of purchase orders</li>
+  <li>Total Due: The total current outstanding debt</li>
+  <li>Lead Time: The time from placing an order to delivery</li>
+</ul>
+<img src="https://github.com/user-attachments/assets/bac00c20-e356-4103-b245-0e2a19618b2a" alt="Query 4" style="width: 100%;">
+
+<h3>3. Product & Supplier</h3>
+<p><b>Description: </b>Provides an overview of supplier and product information, including lead time, minimum order quantity (MOQ), price, etc</p>
+<p><b>Purpose: </b>To propose improvements from suppliers to enhance the purchasing strategy (such as managing long-term debt or reducing material costs) and to identify suppliers with lower product prices</p>
+<p><b>Key Metrics:</b></p>
+<ul>
+  <li>Credit Rating: Supplier credit rating based on accounts payable</li>
+  <li>Standard Price/Last Receipt Cost: The base price of the product or the cost of the most recent receipt</li>
+  <li>MOQ (Minimum Order Quantity): The minimum quantity that must be ordered from the supplier</li>
+</ul>
+<img src="https://github.com/user-attachments/assets/7d81e8b3-ba24-4f67-9e3d-b75f4f61e4cd" alt="Query 4" style="width: 100%;">
