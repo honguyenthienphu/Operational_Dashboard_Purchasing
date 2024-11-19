@@ -52,3 +52,13 @@
 </ul>
 <h3>Empathy Map</h3>
 <img src="https://github.com/user-attachments/assets/95e96afa-01c6-4541-b23a-9318f00df6bb" alt="Query 4" style="width: 100%;">
+
+<h2>III. Insights</h2>
+<h3>Project Model</h3>
+<p>Inventory management has two models to determine the reorder point:</p>
+<ul>
+  <li>MTS - Make To Stock: A production and inventory management strategy where goods are manufactured and stocked in advance based on anticipated customer demand</li>
+  <li>MTO - Make To Order: A production strategy where products are manufactured only after receiving a customer's order</li>
+</ul>
+<p>&rarr; Choose Make to Stock model for the fixed model in this Project</p>
+<h3>Value need to measure</h3>
