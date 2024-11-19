@@ -61,4 +61,19 @@
   <li>MTO - Make To Order: A production strategy where products are manufactured only after receiving a customer's order</li>
 </ul>
 <p>&rarr; Choose Make to Stock model for the fixed model in this Project</p>
-<h3>Value need to measure</h3>
+<h3>Metrics need to measure</h3>
+<p>1. Reorder index</p>
+<ul>
+  <li>Calculate base on Safety Stock Level and Reorder Point</li>
+  <li>Reorder index = Safety Stock / Reorder Point</li>
+    <li> >1: Need to reorder</li>
+    <li> =1: Need to order</li>
+    <li> <1: Need a rush order</li>
+</ul>
+<p>2. Order Quantity</p>
+<ul>
+  <li>Calculation Orde Quantity based on demand</li>
+  <li>Safety Stock and Reorder Point have already been determined for each item in this case, the required order quantity only needs to exceed the Safety Stock</li>
+</ul>
+
+<h2>IV. Dashboard</h2>
