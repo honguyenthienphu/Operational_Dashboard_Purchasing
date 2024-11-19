@@ -42,3 +42,4 @@
     <td>Companies from whom Adventure Works Cycles purchases parts or other goods</td>
   </tr>
 </table>
+<h3>Design Thinking:</h3>
