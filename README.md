@@ -42,4 +42,13 @@
     <td>Companies from whom Adventure Works Cycles purchases parts or other goods</td>
   </tr>
 </table>
-<h3>Design Thinking:</h3>
+<h3>Design Thinking: 5W1H</h3>
+<ul>
+  <li>What: Description of the procurement plan (raw materials, finished goods, and semi-finished products) to meet the production schedule at optimal costs and within a reasonable timeframe</li>
+  <li>Who: Head of Supply Chain use the dashboard to make decision</li>
+  <li>When & Where: In the meeting between Supply Chain team and Production team</li>
+  <li>Why: Review the procurement plan to balance the money flow with the production schedule.</li>
+  <li>How: Understand the production schedule and requirements from the production team to develop an optimal procurement plan</li>
+</ul>
+<h3>Empathy Map</h3>
+<img src="https://github.com/user-attachments/assets/95e96afa-01c6-4541-b23a-9318f00df6bb" alt="Query 4" style="width: 100%;">
