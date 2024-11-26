@@ -51,7 +51,7 @@
   <li>How: Understand the production schedule and requirements from the production team to develop an optimal procurement plan</li>
 </ul>
 <h3>Empathy Map</h3>
-<img src="https://github.com/user-attachments/assets/95e96afa-01c6-4541-b23a-9318f00df6bb" alt="Query 4" style="width: 100%;">
+<img src="https://github.com/user-attachments/assets/ae1af8a1-c126-4a54-883f-229c82dfc96f" alt="Query 4" style="width: 100%;">
 
 <h2>III. Insights</h2>
 <h3>Project Model</h3>
@@ -87,7 +87,7 @@
   <li>Safety Stock: The minimum level of inventory to prevent stockouts</li>
   <li>Reorder Index: An indicator assessing the urgency of placing new orders</li>
 </ul>
-<img src="https://github.com/user-attachments/assets/0a6d68eb-263a-43ab-a280-8c41796d699c" alt="Query 4" style="width: 100%;">
+<img src="https://github.com/user-attachments/assets/b8502622-a601-410f-a12e-e1ef969be3dd" alt="Query 4" style="width: 100%;">
 
 <h3>2. Purchasing</h3>
 <p><b>Description: </b>Provides an overview of the purchasing team's activities, including the number of Purchase Orders (POs), order value, and accounts payable</p>
@@ -98,7 +98,7 @@
   <li>Total Due: The total current outstanding debt</li>
   <li>Lead Time: The time from placing an order to delivery</li>
 </ul>
-<img src="https://github.com/user-attachments/assets/bac00c20-e356-4103-b245-0e2a19618b2a" alt="Query 4" style="width: 100%;">
+<img src="https://github.com/user-attachments/assets/535f17fa-f5d7-451c-b2c1-bdcc71b22253" alt="Query 4" style="width: 100%;">
 
 <h3>3. Product & Supplier</h3>
 <p><b>Description: </b>Provides an overview of supplier and product information, including lead time, minimum order quantity (MOQ), price, etc</p>
@@ -109,4 +109,4 @@
   <li>Standard Price/Last Receipt Cost: The base price of the product or the cost of the most recent receipt</li>
   <li>MOQ (Minimum Order Quantity): The minimum quantity that must be ordered from the supplier</li>
 </ul>
-<img src="https://github.com/user-attachments/assets/7d81e8b3-ba24-4f67-9e3d-b75f4f61e4cd" alt="Query 4" style="width: 100%;">
+<img src="https://github.com/user-attachments/assets/f13e3bc8-c141-4926-8347-c8f99d72a3d5" alt="Query 4" style="width: 100%;">
